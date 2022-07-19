@@ -1,6 +1,6 @@
 # Streamlit Copy Paste
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mpa-config.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tylerjrichards-copy-paste-streamlit-streamlit-app-8pfnd7.streamlitapp.com/)
 
 
 ### Summary
